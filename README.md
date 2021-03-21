@@ -27,6 +27,7 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img align="left" alt="Anaconda" width="26px" src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png" />
 
 <br />
 <br />
