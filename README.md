@@ -21,12 +21,6 @@
 
 <img align="left" alt="Jupiter Notebook" width="26px" src="https://ibb.co/6m48xxV" />
 
-[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
-
-<img align="left" alt="Azure" width="26px" src="https://www.parkmycloud.com/wp-content/uploads/2018/02/Azure_.png" />
-
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
-
 <img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
