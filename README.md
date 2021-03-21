@@ -2,7 +2,10 @@
 
 ## Biólogo e estudante de engenharia mergulhando no mundo da ciência de dados!
 
-- 💻 Atualmente estudo Engenharia de Produção e ciência de dados, buscando realizar minha transição de carreira.
+- 💻 Utilizando linguagem python e suas bibliotecas para tratamento dos dados, assim como recursos estatísticos para análise dos dados. 
+- 💻 Cursando Engenharia de Produção pela Universidade Veiga de Almeida. 
+- 💻 Cursando MBA em Big Data e Inteligência Competitiva.
+- 💻 Graduado em Licenciatura Plena em Ciências Biológicas pela Universidade Federal Rural do Rio de Janeiro.
 - 📈 Estou constantemente apredendo e desenvolvendo minhas habilidades técnicas.
 - 📊 Busco oportunidades para contribuir em projetos.
 
