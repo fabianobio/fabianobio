@@ -21,7 +21,7 @@
 
 <img align="left" alt="Jupiter Notebook" width="26px" src="https://jupyter.org/assets/main-logo.svg" />
 
-<img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+<img align="left" alt="Google Colab" width="26px" src="/img/colab_favicon.ico" />
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
