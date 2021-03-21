@@ -19,7 +19,7 @@
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<img align="left" alt="Jupiter Notebook" width="26px" src="https://ibb.co/6m48xxV" />
+<img align="left" alt="Jupiter Notebook" width="26px" src="https://jupyter.org/assets/main-logo.svg" />
 
 <img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
