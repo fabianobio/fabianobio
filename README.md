@@ -3,6 +3,7 @@
 ## Biólogo e estudante de engenharia mergulhando no mundo da ciência de dados!
 
 - 💻 Utilizando linguagem python e suas bibliotecas para tratamento dos dados, assim como recursos estatísticos para análise dos dados. 
+- 💻 Conhecimentos sólidos na utilização de Power BI para análise e visualização de dados através de Dashboards.
 - 💻 Cursando Engenharia de Produção pela Universidade Veiga de Almeida. 
 - 💻 Cursando MBA em Big Data e Inteligência Competitiva.
 - 💻 Graduado em Licenciatura Plena em Ciências Biológicas pela Universidade Federal Rural do Rio de Janeiro.
