@@ -33,6 +33,8 @@
 
 <img align="left" alt="Anaconda" width="26px" src="https://www.clipartmax.com/png/small/349-3490136_anaconda-icon-anaconda-python-icon.png" />
 
+<img align="left" alt="Google Analytics" width="26px" src="https://img2.gratispng.com/20180417/tlq/kisspng-google-analytics-web-analytics-dashboard-google-5ad679571b32e6.2236373815240052071114.jpg" />
+
 <br />
 <br />
 
